@@ -1,5 +1,5 @@
 # Thuc_hanh_01_nhom_2
-**Thư mục này gồm nhiệm vụ 1.1, 1.2, 2.1, 2.2, 3.1, 3.2 và danh sách thành viên**
+**Thư mục này gồm nhiệm vụ 1.1, 1.2, 2.1, 2.2, 3.1, 3.2 và code python**
 
 **Nhiệm vụ 1.1**
 Mô tả: Sử dụng công cụ AI (Google Bard hoặc Grok) để tìm hiểu thông tin về CPU, RAM, và ổ cứng của máy tính đang sử dụng.
