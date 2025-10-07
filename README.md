@@ -16,6 +16,8 @@ Mô tả: Sử dụng AI để khắc phục lỗi “Notepad++ không mở đư
 **Nhiệm vụ 3.1**
 Mô tả: Sử dụng Canva AI để tạo infographic về một chủ đề công nghệ số (ví dụ: “Ứng dụng AI trong CNTT”)
 
+Infographic được tạo bằng Canva AI, nguồn ảnh từ Unsplash, giấy phép Creative Commons (CC BY).
+
 **Nhiệm vụ 3.2**
 Mô tả: Phân tích cách sử dụng AI trong nhiệm vụ 3.1 theo nguyên tắc đạo đức.
 
